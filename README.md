@@ -15,9 +15,6 @@ Skills
 - Linux Basics
 - Cyber Security Fundamentals
 
-Projects
-
-01 - Security Audit
 
 Description:
 A security audit project focused on identifying security issues, analyzing risks, and providing recommendations for improving security.
