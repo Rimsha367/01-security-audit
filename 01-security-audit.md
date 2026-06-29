@@ -7,5 +7,6 @@ Weak passwords were identified, and some software updates were missing.
 # Recommendations.                     
 - Use strong passwords.
 - Enable the firewall.
-- Install software updates regularly.  # Conclusion
+- Install software updates regularly. 
+ # Conclusion
 This project improved my understanding of basic security auditing and the importance of protecting systems against common threats.
